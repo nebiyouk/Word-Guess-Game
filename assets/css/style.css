@@ -1,0 +1,23 @@
+
+.one {
+    background-image: url("../images/background1.jpg");
+    margin-top: 120px;
+  
+  }
+  .panel-body {
+      padding: 15px;
+      background-color: wheat;
+  }
+  .text-center {
+      text-align: center;
+      color: green;
+  }
+  .three {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .two {
+      color: black;
+      font-family: 'Frijole', monospace;
+      text-align: center;
+      font-size: 50px;
+  }
