@@ -4,6 +4,12 @@
     margin-top: 120px;
   
   }
+.four {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: grey;
+    font-size: 30px;
+}
   .panel-body {
       padding: 15px;
       background-color: wheat;
